@@ -5,3 +5,8 @@ Cuarto paso
 Quinto paso
 Sexto paso
 Septimo paso
+
+
+1 paso
+2 paso
+3 paso
